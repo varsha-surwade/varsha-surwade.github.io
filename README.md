@@ -1,7 +1,6 @@
 # Varsha Surwade Portfolio
 
 This is a responsive portfolio inspired by the visual structure of the reference website:
-https://satyamshelke2005.github.io/
 
 ## Files
 - index.html — website content
