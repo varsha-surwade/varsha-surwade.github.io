@@ -17,6 +17,7 @@ Open `index.html` and replace:
 
 ## Run locally
 Double-click `index.html`, or use VS Code Live Server.
+my first git hub file
 
 ## Publish with GitHub Pages
 1. Create a GitHub repository named `YOUR_USERNAME.github.io`.
